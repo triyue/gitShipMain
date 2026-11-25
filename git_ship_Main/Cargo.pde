@@ -3,4 +3,5 @@ ArrayList<String> cargo = new ArrayList<String>();
 
 void loadCargo(){
   cargo.add("16 tons of space station scrap");
+  cargo.add("Blueprints for GLaDOS");
 }
